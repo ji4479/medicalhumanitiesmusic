@@ -2,7 +2,8 @@
 Year: 1992
 Genre: Music
 Creator: Bill Berry, Peter Buck, Mike Mills, Michael Stipe
-Disease: Depression, Suicidal thoughts
+Disease: Depressive disorder
+ICD: 6A71
 Singer: R.E.M.
 Type: Rock
 ---
